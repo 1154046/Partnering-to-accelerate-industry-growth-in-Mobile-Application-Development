@@ -3,6 +3,8 @@ Virtual Colloquium 24 November 2021 Presentation
 
 For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for the world. 
 
+These are some of the links that you may find useful as a Mobile developer.
+
 Open Source projects, starter kits, and activity kits from IBM Volunteers - https://www.ibm.org/initiatives/ibm-volunteers
 
 Activity Kits - https://www.ibm.org/activities
@@ -15,4 +17,4 @@ Startup with IBM - https://developer.ibm.com/startups/
 
 Hybrid Cloud Build Team Partnership - https://developer.ibm.com/hcbt/
 
-Code Patterns - https://developer.ibm.com/
+Code Patterns and Developer Content - https://developer.ibm.com/ 
