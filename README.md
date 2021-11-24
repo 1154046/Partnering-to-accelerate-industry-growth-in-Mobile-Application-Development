@@ -1,4 +1,4 @@
-# Partnering-to-accelerate-industry-growth-in-Mobile-Application-Development
+# Partnering to accelerate industry growth in Mobile Application Development
 Virtual Colloquium 24 November 2021 Presentation
 
 For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for the world. 
