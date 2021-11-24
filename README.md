@@ -15,4 +15,4 @@ Startup with IBM - https://developer.ibm.com/startups/
 
 Hybrid Cloud Build Team Partnership - https://developer.ibm.com/hcbt/
 
-Code Patterns - 
+Code Patterns - https://developer.ibm.com/
