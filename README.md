@@ -22,3 +22,5 @@ Hybrid Cloud Build Team Partnership - https://developer.ibm.com/hcbt/
 IBM Skills Academy - https://skills-academy.comprehend.ibm.com/
 
 Code Patterns and Developer Content - https://developer.ibm.com/ 
+
+Join the South African IBM Community - meetup.com/ZA-IBMCloud/
